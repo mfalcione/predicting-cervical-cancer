@@ -22,7 +22,7 @@ pandas==1.2.1
 ```
 
 Alternatively one can install all the required packages by running the pip command below.
-`pip install -r requirements.txt`
+* `pip install -r requirements.txt`
 
 ### Runing the Code
 
