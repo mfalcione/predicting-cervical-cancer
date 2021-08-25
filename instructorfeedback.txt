@@ -1,0 +1,10 @@
+Excellent work! Great job applying methods beyond what was discussed in class.
+
+* Well-written report. Abstract nicely summarizes the problem, methods, and results.
+
+* Background and the need clearly established. Methods & Results described well. A table comparing the performance metrics for the methods you tried would have been nice.
+
+* Code clean and well-organized.
+
+* You should normalize your data before applying TSNE.
+
