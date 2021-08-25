@@ -1,4 +1,4 @@
-# Project
+# Predicting Cervical Cancer Using Machine Learning
 Cervical cancer is one of the most common causes of death from cancer in the world and especially in developing countries. The objective of this project is to understand medical history information can be used to predict a cervical cancer diagnosis.
 
 This is useful because in areas where resources are scarce, this will allow diagnostic resources to be allocated to women at high risk. The dataset used in this study was obtained from 856 patients in Hospital Universitario de Caracas in Caracas, Venezuela. Following data post-processing, methods include t-SNE visualization, tree-based and univariate feature selection, and neural network, random forest, and XGBoost classification. t-SNE visualization showed no discernable patterns or splits in the data for any of the screening tests or the class target value, meaning there are likely multiple factors needed to make an accurate prediction of the target value. The random forest, XGBoost, and neural network classification methods all resulted in similar true negative values while the XGBoost method had the highest true positive value.
